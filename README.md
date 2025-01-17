@@ -1,6 +1,6 @@
 # Faber demo
 
-This is a demonstration boilerplate for testing the [Faber](https://github.com/faberjs/faber-cli).
+This is a demonstration boilerplate for testing [Faber.js](https://github.com/faberjs/faber-cli).
 
 ## Features
 
@@ -18,7 +18,7 @@ npm i -g faber-cli
 Create a new project with this boilerplate:
 
 ```shell
-faber create awesome-project https://github.com/faberjs/faber-cli.git
+faber create awesome-project https://github.com/faberjs/faber-demo.git
 ```
 
 Paste this minified JSON data when prompted:
@@ -27,8 +27,8 @@ Paste this minified JSON data when prompted:
 {"name":"Awesome Project","author":"Lorem Ipsum"}
 ```
 
-After this, the project should be created successfully.
+If completed successfully, you should have the project folder with its updated `README.md` file inside.
 
 ## Learn more
 
-Visit [Faber's documentation](https://github.com/faberjs/faber-cli) to explore more about its possibilities.
+Visit [Faber's documentation](https://github.com/faberjs/faber-cli) to explore more options.
